@@ -1,0 +1,82 @@
+/* Header */
+
+*
+{font-family: 'Roboto', sans-serif;}
+
+h1,h2{
+    color:white;
+}
+
+.site-header{
+    text-align:center;
+}
+
+main{
+    background-color:gray;
+    margin-top:50px;
+    margin-bottom:50px;
+    padding:30px;
+    border-radius:10px;
+}
+
+.menu{
+    background-color:red;
+    text-align:center;
+    padding:10px;
+}
+
+.education-item h3{
+    color:rgb(212,65,0);
+    
+    }
+    
+    .education-item h3{
+        color:rgb(212,65,0);
+    }
+    
+    .education-item h3{
+        color:rgb(212,65,0);
+    }
+
+.site-header{
+    background-position: center;
+    background-image:url(../img/world.jpg);              
+}
+
+
+
+
+main{
+    background-color:gray;
+    margin-top:50px;
+    margin-bottom:50px;
+    padding:30px;
+    border-radius:10px;
+}
+
+p{
+    font-size:16px;
+    line-height:2;
+}
+
+
+
+.education{
+color:black;
+
+}
+
+.sdgku{
+    color:black;
+}
+
+.school2{
+    color:black;
+}
+
+footer{
+    background-color:black;
+    color:white;
+    text-align:center;
+   
+}
